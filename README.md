@@ -41,24 +41,4 @@ Data Cleaning & Transformation – Performed using Power Query
 
 DAX – Used for calculated measures and KPIs
 
-📌 Use Case
-
-This dashboard can be useful for:
-
-Business analysts and data analysts
-
-Students learning data visualization and business analytics
-
-Understanding retail and e-commerce sales patterns
-
-📂 File Information
-
-Blinkit Sales Dashboard.pbix – Power BI dashboard file
-
-🚀 Future Enhancements
-
-Customer segmentation analysis
-
-Time-series forecasting of sales
-
 Integration with real-time or larger datasets
